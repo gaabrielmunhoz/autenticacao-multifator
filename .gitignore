@@ -1,0 +1,5 @@
+__pycache__
+.venv
+AutenticacaoPython.py
+AuthBancoDeToquio.py 
+send_email.py 
